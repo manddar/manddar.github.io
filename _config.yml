@@ -83,6 +83,9 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
+  strategies:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
