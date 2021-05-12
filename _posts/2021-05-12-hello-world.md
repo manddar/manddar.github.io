@@ -7,8 +7,6 @@ tags:
   - First
 ---
 
-## Hello world 
-
 This is my first post on this blog. I own this domain since long and was not sure what to do with it. I use this as placeholder for various tools that I use for Finance Management and to listen to some webhooks used by my python scripts.
 
 Its been so long, I have written something about anything but now I plan to write about personal experiences I come across in routine life.
