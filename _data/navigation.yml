@@ -6,9 +6,9 @@
   url: /categories/
 - title: Tags
   url: /tags/
-- title: Recipes
-  url: /recipes/
-- title: Strategies
-  url: /strategies/
+# - title: Recipes
+#   url: /recipes/
+# - title: Strategies
+#   url: /strategies/
 - title: Search
   url: /search/
