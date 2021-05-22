@@ -25,8 +25,8 @@ I sell shared hosting space as well with cpanel account with minimal support (on
 
 ## Features
 
-### USER FRIENDLY CPANEL
+#### USER FRIENDLY CPANEL
 managing your web hosting account has never been easier with the industry leading web hosting control panel cpanel & whm.
 
-### PRIVACY & SECURITY
+#### PRIVACY & SECURITY
 security of your website files and sensitive information is our primary concern, and we do everything to keep it safe from hackers.
