@@ -5,7 +5,7 @@ permalink: /hosting/
 taxonomy: business
 ---
 
-I sell shared hosting space as well with cpanel account with minimal support (only ticket based support available). There are 3 plans to start your website. Feel free to go through plans and ask me if any help required.
+Shared hosting space available with cpanel account with minimal support (only ticket based support available). There are 3 plans to start your website. Feel free to go through plans and ask me if any help required.
 
 ## 1GB Plan
 1GB Web space & 10GB Bandwidth
