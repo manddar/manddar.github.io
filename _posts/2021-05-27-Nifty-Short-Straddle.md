@@ -11,12 +11,12 @@ tags:
 
 I initiated Nifty short straddle today for deep OTM strikes with same premium on Call & Put both sides and June month expiry. Added couuple of current expiry deep OTM long positions as hedge to protect account from sudden movement in Market.
 
-SHORT 
+*SHORT*
 
 - NIFTY JUN 14100 PE = 27.20
 - NIFTY JUN 16200 CE = 27.95
 
-LONG  
+*LONG* 
 
 - NIFTY 10th w JUN 13500 PE = 5.10
 - NIFTY 10th w JUN 16300 CE = 5.75
